@@ -1,5 +1,5 @@
 # Raspberry_pi_Shiny_app
-This project will include all the materials used in the 19th January 2022 Webinar for the NHS-R Community
+This project will include all the materials used in the **19th January 2022** Webinar for the **NHS-R Community**
 
 Designing a Shiny dashboard using a Raspberry Pi cluster
 
