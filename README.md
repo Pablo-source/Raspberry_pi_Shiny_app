@@ -6,15 +6,12 @@ Designing a Shiny dashboard using a Raspberry Pi cluster
 - This presentation describes<br>the steps required to setup a Raspberry Pi cluster and preparations needed to turn it into a Shiny Server
 
 In the NHS-R Community Webinar on Wednesday 19th, the presentation will cover these four topics: 
--1.Different ways of connecting remotely to the Raspberry Pi
--2.How to setup a Raspberry pi cluster, 
--3.Generate a SSH key on Windows to log into each Raspberry Pi's in the Cluster
--4.Briefly description of the process to create a Shiny server (following R Studio Community blog posts)
+a. Different ways of connecting remotely to the Raspberry Pi
+b. How to setup a Raspberry pi cluster, 
+c. Generate a SSH key on Windows to log into each Raspberry Pi's in the Cluster
+d. Briefly description of the process to create a Shiny server (following R Studio Community blog posts)
 
-
-
-- Online resources used to build the presentation
-- 
+- Online resources used to build the presentation 
 **1. Generate SSH Keys on Windows and copy them to your Raspberry Pi cluster
 https://pimylifeup.com/raspberry-pi-ssh-keys/
 
