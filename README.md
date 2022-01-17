@@ -17,7 +17,7 @@ In the NHS-R Community Webinar on Wednesday 19th, the presentation will cover th
 1. Generate SSH Keys on Windows and copy them to your Raspberry Pi cluster
 https://pimylifeup.com/raspberry-pi-ssh-keys/
 
-2.Setting up your own shiny-server / rstudio-server on a Raspberry Pi 3B+
+2. Setting up your own shiny-server / rstudio-server on a Raspberry Pi 3B+
 https://community.rstudio.com/t/setting-up-your-own-shiny-server-rstudio-server-on-a-raspberry-pi-3b/18982
 
 This is the main blog post that details the steps required to setup a Shiny server on a Raspberry pi. 
