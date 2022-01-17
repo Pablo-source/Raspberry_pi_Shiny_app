@@ -39,3 +39,12 @@ Preparing the Raspberry Pi
 4.3 Restart postgresql service
 5. Install the latest version of R from source
 6. Install Shiny-Server
+7. Configure Shiny-Server
+8. Install R Studio from source
+9. Extra steps
+9.1 Make pretty URLs for Shiny and Rstudio Server
+9.2 To access you shiny app from anywehere over the internet, create a static public IP
+
+This is an experimental project to test how it would be posible to run a Shiny app 24/7 from a Server setup in a Raspberry Pi cluster, an inexpensive way of designing a Shiny web app that people can access over the internet. 
+
+All the credits and original ideas goes to the original developers of the different resources I have used to put together the required materials for this project. 
