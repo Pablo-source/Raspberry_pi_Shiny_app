@@ -1,0 +1,1 @@
+This folder contains the three R sripts used to create the Shiny app displayed in the Raspberry pi Shiny presentation
