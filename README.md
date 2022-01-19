@@ -14,10 +14,10 @@ In the NHS-R Community Webinar on Wednesday 19th, the presentation will cover th
 
 - Online resources used to build the presentation 
 
-1. Generate SSH Keys on Windows and copy them to your Raspberry Pi cluster
+1.Generate SSH Keys on Windows and copy them to your Raspberry Pi cluster
 https://pimylifeup.com/raspberry-pi-ssh-keys/
 
-2. Setting up your own shiny-server / rstudio-server on a Raspberry Pi 3B+
+2.Setting up your own shiny-server / rstudio-server on a Raspberry Pi 3B+
 https://community.rstudio.com/t/setting-up-your-own-shiny-server-rstudio-server-on-a-raspberry-pi-3b/18982
 
 This is the main blog post that details the steps required to setup a Shiny server on a Raspberry pi. 
@@ -26,7 +26,7 @@ This is the main blog post that details the steps required to setup a Shiny serv
 - Andrés Castro Socolich
 - https://community.rstudio.com/u/andresrcs
 
-1. Main website that inspired this experiment
+1.Main website that inspired this experiment
 
 For this experimental project I followed  the post below from Andres Castro Socolich from the R studio community
 https://community.rstudio.com/t/setting-up-your-own-shiny-server-rstudio-server-on-a-raspberry-pi-3b/18982
@@ -60,12 +60,13 @@ https://nhsrcommunity.com/home/webinars/
  
 Online reesources used to researh about Raspberry pi clusters for the presentation
 
-2.  NHSR blogs and website
+2.NHSR blogs and website
 NHS-R Blogs. Designing my first shiny dashboard
 https://nhsrcommunity.com/blog/designing-my-first-shiny-dashboard/
 
 
-3.  Internet websites and Youtube videos on how to setup Raspberry pi clusters
+3.Internet websites and Youtube videos on how to setup Raspberry pi clusters
+
 3.1 Tinkernut.How To Make A Cluster Computer (Part 1, Part 2)
 https://www.youtube.com/watch?v=1R0UgIgcb5g&t=4s
 
