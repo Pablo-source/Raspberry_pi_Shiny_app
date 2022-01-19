@@ -49,3 +49,25 @@ Preparing the Raspberry Pi
 This is an experimental project to test how it would be posible to run a Shiny app 24/7 from a Server setup in a Raspberry Pi cluster, an inexpensive way of designing a Shiny web app that people can access over the internet. 
 
 All the credits and original ideas goes to the original developers of the different resources I have used to put together the required materials for this project. 
+
+- Special thanks to the NHS-R team and community for allowing me to present this webinar today
+https://nhsrcommunity.com/
+https://nhsrcommunity.com/home/webinars/
+ 
+Resources
+
+1. Main website that inspired this experiment
+
+For this experimental project I followed  the post below from Andres Castro Socolich from the R studio community
+https://community.rstudio.com/t/setting-up-your-own-shiny-server-rstudio-server-on-a-raspberry-pi-3b/18982
+
+2.  NHSR blogs and youtube videos on how to setup Raspberry pi clusters
+
+NHS-R Blogs. Designing my first shiny dashboard
+https://nhsrcommunity.com/blog/designing-my-first-shiny-dashboard/
+
+Tinkernut.How To Make A Cluster Computer (Part 1, Part 2)
+https://www.youtube.com/watch?v=1R0UgIgcb5g&t=4s
+
+Network Chuck. I build a Raspberry Pi super computer
+https://youtu.be/X9fSMGkjtug
