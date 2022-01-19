@@ -26,6 +26,10 @@ This is the main blog post that details the steps required to setup a Shiny serv
 - Andrés Castro Socolich
 - https://community.rstudio.com/u/andresrcs
 
+1. Main website that inspired this experiment
+
+For this experimental project I followed  the post below from Andres Castro Socolich from the R studio community
+https://community.rstudio.com/t/setting-up-your-own-shiny-server-rstudio-server-on-a-raspberry-pi-3b/18982
 
 Preparing the Raspberry Pi
 
@@ -54,18 +58,14 @@ All the credits and original ideas goes to the original developers of the differ
 https://nhsrcommunity.com/
 https://nhsrcommunity.com/home/webinars/
  
-Resources
+Online reesources used to researh about Raspberry pi clusters for the presentation
 
-1. Main website that inspired this experiment
-
-For this experimental project I followed  the post below from Andres Castro Socolich from the R studio community
-https://community.rstudio.com/t/setting-up-your-own-shiny-server-rstudio-server-on-a-raspberry-pi-3b/18982
-
-2.  NHSR blogs and youtube videos on how to setup Raspberry pi clusters
-
+2.  NHSR blogs and website
 NHS-R Blogs. Designing my first shiny dashboard
 https://nhsrcommunity.com/blog/designing-my-first-shiny-dashboard/
 
+
+3.  Internet websites and Youtube videos on how to setup Raspberry pi clusters
 Tinkernut.How To Make A Cluster Computer (Part 1, Part 2)
 https://www.youtube.com/watch?v=1R0UgIgcb5g&t=4s
 
