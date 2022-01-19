@@ -66,8 +66,8 @@ https://nhsrcommunity.com/blog/designing-my-first-shiny-dashboard/
 
 
 3.  Internet websites and Youtube videos on how to setup Raspberry pi clusters
-Tinkernut.How To Make A Cluster Computer (Part 1, Part 2)
+3.1 Tinkernut.How To Make A Cluster Computer (Part 1, Part 2)
 https://www.youtube.com/watch?v=1R0UgIgcb5g&t=4s
 
-Network Chuck. I build a Raspberry Pi super computer
+3.2 Network Chuck. I build a Raspberry Pi super computer
 https://youtu.be/X9fSMGkjtug
