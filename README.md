@@ -75,4 +75,4 @@ https://youtu.be/X9fSMGkjtug
 
 4. Last update: Installing R ans R Studio on a Raspberry pi: 
 * Please read file **"R_and_R_studio_Raspberrypi.txt"** added on 23/01/2022 for a detailed explanation on how to install both R and R Studio on a Raspberry pi (or any Debian distro)
-* 
+* Details in  **"R_and_R_studio_Raspberrypi.txt"** file.
