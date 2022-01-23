@@ -1,0 +1,74 @@
+# These are the steps to insall R and R Studio on Elementary OS
+
+# Website to follow step by step the installation guide
+# Follow this guide on how to install R and R Studio in Debain (On a Raspberry Pi)
+https://computingforgeeks.com/how-to-install-r-and-rstudio-on-debian/
+
+# This article will cover installation of Open source edition of RStudio relased under AGPL Licence
+
+# Step 01: Update System.
+
+sudo update
+sudo apt -y update
+
+# Step 02: Install R on Debian 10/Debian 11
+# We need to insall r-base package which contains the basic R functions that let you perform arithmetic operations
+# and basic programming in R. Use the command below to install
+
+sudo apt -y install r-base
+
+# Step 03: Check the R version you just have installed 
+R --version
+
+# Step 04: Download and Install RStudio on Debain 10/11
+# Now visit the RStudio Donloads page to grab the latest release of RStudio for Debian based on Linux distributions
+
+sudo apt -y install wget
+
+# This is the link copied directly from the rstudio website for debain
+# we use wget command to fetch and install it on our desktop
+
+# This is the updated version from the R Studio website for Debian
+# Website
+https://www.rstudio.com/products/rstudio/download/#download
+
+# Step 04: Download and  Install R studio
+
+# 4.1 Download R Studio
+# Specific URL to download R Studio Deb version
+wget https://download1.rstudio.org/desktop/bionic/amd64/rstudio-2021.09.2-382-amd64.deb
+
+# You want to download the file below for the Raspberry Pi
+https://download1.rstudio.org/desktop/bionic/amd64/rstudio-2021.09.2-382-amd64.deb
+# rstudio-2021.09.2-382-amd64.deb
+
+# If you encounter any dependency problems, run 
+sudo apt -f install
+
+# 4.2 INSTALL R STUDIO
+
+# 4.2.1 LINUX BASED SYSTEMS (RASPBERRY PI IS A DEBIAN LINUX OS)
+# You need first to validate the signature of the R Studio build you will install on the Raspberry PI
+# Follow the steps described on the website below: 
+https://www.rstudio.com/code-signing/ 
+
+# 4.2.1.1 Install dpkg-sig package to validate public key
+sudo apt install dpkg-sig
+
+# 4.2.1.1 Obtain The Public Key 
+# In order to validate a build's signature, you must first import and trust RStudio's public code-signing key
+gpg --keyserver keyserver.ubuntu.com --recv-keys 3F32EE77E331692F
+
+# 4.2.1.2 Validate Build Signatures
+# On Debian-based linux systems, the the dpkg-sig command to validate the signature
+dpkg-sig --verify rstudio-2021.09.02-382-amd64.deb
+
+# 4.3 Install R studio
+sudo apt install -f ./rstudio-2021.09.2-382-amd64.deb
+
+# Step 05: Launch RStudio on Debian 10/Debian 11
+# Launch RStdio from Applications search section of your Desktop Environment or from the terminal
+rstudio
+
+# You have successfully installed R and Rstudio on Debain 10/Debian 11 Linux distritbution
+
